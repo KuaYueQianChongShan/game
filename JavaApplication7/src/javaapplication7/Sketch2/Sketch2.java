@@ -18,7 +18,7 @@ public class Sketch2 extends PApplet {
     int end[][] = {{9,0},{4,9}};
     final int TILE_SIZE = 40;
     public static int[][] map = new int[10][10];           
-
+    boolean begin;
     int playerX = 0;
     int playerY = 0;
 
