@@ -22,12 +22,12 @@ public class JavaApplication7 {
     public static void main(String[] args) {
         // TODO code application logic here
         boolean begin = false;
-//        if (!begin){
-//            Sketch.main("javaapplication7.Sketch2"); 
-//        }
         if (!begin){
-            Sketch.main("javaapplication7.Sketch");
+            Sketch.main("javaapplication7.Sketch2"); 
         }
+//        if (!begin){
+//            Sketch.main("javaapplication7.Sketch");
+//        }
 //        Scanner scanner = new Scanner(System.in);
 //        int i = 0;
 //        try {
